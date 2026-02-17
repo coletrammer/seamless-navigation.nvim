@@ -1,0 +1,8 @@
+**/.DS_Store
+.cache/
+.direnv/
+.idea/
+.vs/
+.vscode/
+result
+prefix/
